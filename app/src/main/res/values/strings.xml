@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tưới Cây</string>
+    <string name="water">Tưới:</string>
+    <string name="remind_me">Nhắc tôi tưới cây %1$s sau:</string>
+    <string name="five_seconds">5 giây</string>
+    <string name="one_day">1 ngày</string>
+    <string name="one_week">1 tuần</string>
+    <string name="one_month">1 tháng</string>
+    <string name="time_to_water">💧 Nhắc nhở: Đến giờ tưới cây rồi!</string>
+
+    <!-- Lithop -->
+    <string name="lithop">Lithop</string>
+    <string name="monthly">1 tháng một lần</string>
+    <string name="succulent">Cây mọng nước</string>
+    <string name="stone_mimicking_succulent">Giống như những hòn đá nhỏ, rất ít cần tưới.</string>
+
+    <!-- Carrot -->
+    <string name="carrot">Cà rốt</string>
+    <string name="daily">Mỗi ngày</string>
+    <string name="root">Cây rễ</string>
+    <string name="hardy_root_vegetable">Rau củ có thể sống khỏe mạnh dưới đất.</string>
+
+    <!-- Peony -->
+    <string name="peony">Mẫu đơn</string>
+    <string name="weekly">Mỗi tuần</string>
+    <string name="flower">Hoa</string>
+    <string name="spring_blooming_flower">Ra hoa vào mùa xuân, đẹp và rực rỡ.</string>
+
+    <!-- Pothos -->
+    <string name="pothos">Trầu bà</string>
+    <string name="houseplant">Cây trong nhà</string>
+    <string name="indoor_vine">Dễ chăm, phù hợp trồng trong nhà, leo tốt.</string>
+
+    <!-- Fiddle Leaf Fig -->
+    <string name="fiddle_leaf_fig">Bàng Singapore</string>
+    <string name="broadleaf_evergreen">Lá lớn, thường xanh</string>
+    <string name="ornamental_fig">Trang trí nội thất, lá lớn nổi bật.</string>
+
+    <!-- Strawberry -->
+    <string name="strawberry">Dâu tây</string>
+    <string name="fruit">Trái cây</string>
+    <string name="delicious_multiple_fruit">Cho trái nhỏ, mọng nước và ngọt.</string>
+
+</resources>
